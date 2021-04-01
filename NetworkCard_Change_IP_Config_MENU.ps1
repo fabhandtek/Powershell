@@ -1,7 +1,7 @@
 ﻿<#
  
 .SYNOPSIS
-    Ce script permet de changer de configuration de la carte RZO 
+    Ce script permet de changer de configuration de la carte Réseau 
 	
 .DESCRIPTION
 	Le script propose 2 choix, un pour la configuration DHCP et l'autre pour une IP FIXE
